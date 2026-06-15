@@ -34,4 +34,4 @@ L'usager n'a plus à courir pour rassembler des papiers que l'État possède dé
 
 **Solution par le SMA :** Chaque interaction, décision et délai dans l'écosystème est horodaté, signé et attribué à un agent logiciel (et donc in fine à une autorité responsable). Si un Agent Service ne répond pas, cela déclenche des alertes automatiques. L'espace de discrétion opaque est remplacé par un flux transparent et traçable. Cela ne supprime pas la corruption, mais cela la rend techniquement plus difficile et plus risquée.
 
-En résumé, pour la Côte d'Ivoire, ce thème ne serait pas une lubie technologique abstraite. Il répondrait à une problématique très concrète de déficit d'efficacité, d'équité territoriale et de lutte contre la lourdeur administrative, en s'attaquant directement au **manque d'interopérabilité** entre des administrations qui fonctionnent encore en "forteresses" isolées.
+
