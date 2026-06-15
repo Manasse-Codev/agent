@@ -115,7 +115,7 @@ Le projet s'articule en 5 couches distinctes :
 │                                                                                           │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
+![logo](deepseek_mermaid_20260615_9c74c0.png)
 ---
 
 ### IV. Légende du Diagramme
