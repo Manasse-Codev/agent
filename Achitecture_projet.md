@@ -1,4 +1,3 @@
-Voici une structure de projet claire et professionnelle, suivie d'un diagramme d'architecture qui illustre l'ensemble de l'écosystème.
 
 ---
 
@@ -196,4 +195,3 @@ Ce scénario illustre comment les agents interagissent concrètement.
                     └───────────┘            └───────────────┘          └───────────────┘
 ```
 
-Cette structure permet de visualiser clairement comment le projet s'organise, depuis l'interface utilisateur jusqu'à l'infrastructure technique, en passant par les différentes catégories d'agents et leurs interactions.
