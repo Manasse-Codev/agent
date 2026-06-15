@@ -1,8 +1,3 @@
-Voici une explication claire et structurée du thème **"Écosystème multi-agents pour services administratifs publics"**.
-
-Je vais décomposer le concept en trois parties, puis l'assembler.
-
----
 
 ### 1. Les concepts de base
 
@@ -70,4 +65,4 @@ Ce thème propose de passer de :
 
 **L'avantage principal est le principe du "Dites-le nous une fois" :** Le citoyen déclare un événement de vie une seule fois, et tout l'écosystème d'agents se met en ordre de marche pour traiter toutes les démarches liées.
 
-C'est donc une vision d'une administration publique **proactive, personnalisée et interopérable**, où la complexité est gérée par l'intelligence collective des agents logiciels, libérant l'humain (citoyen comme fonctionnaire) des tâches de coordination fastidieuses.
+
