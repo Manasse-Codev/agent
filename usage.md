@@ -1,4 +1,4 @@
-Voici une explication concrète de **comment et par qui** la solution "e-Citoyen CI" sera utilisée, dans la vraie vie, une fois le MVP déployé.
+
 
 ---
 
